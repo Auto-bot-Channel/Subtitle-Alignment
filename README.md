@@ -6,12 +6,13 @@ Align your subtitles in a movie by use of Deep learning library Align.
 ## To setup and run
 just clone the project and place the movie and subtitle file(.srt file) in same folder and run 
 
-```~$ python3 align.py -m [movie name] -s [subtitle file name] -o [new file name, <name.srt>]
+```bash
+~$ python3 align.py -m [movie name] -s [subtitle file name] -o [new file name, <name.srt>]
 
 ```
 ---
 
-```
+```bash
 gentle Docker API -- install by `~$ sudo docker run -P lowerquality/gentle
 ```
 ---
