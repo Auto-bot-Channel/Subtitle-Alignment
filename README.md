@@ -15,7 +15,8 @@ just clone the project and place the movie and subtitle file(.srt file) in same 
 ```bash
 gentle Docker API -- install by `~$ sudo docker run -P lowerquality/gentle
 ```
----
+**Watch on youtube!!**
+[![Video link](thumb.jpeg)](https://www.youtube.com/watch?v=KAmYMtVasnI)
 
 ## MIT License
 
